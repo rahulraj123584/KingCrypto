@@ -3,7 +3,7 @@
 import WebApp from '@twa-dev/sdk'
 import { useEffect, useState } from 'react'
 
-const API_ENDPOINT = 'https://9ahe7nsizb.execute-api.ap-south-1.amazonaws.com/telegram-bot-handler';
+const API_ENDPOINT = 'https://awmfwke4f2.execute-api.ap-south-1.amazonaws.com/telegram-bot-handler';
 
 // Define the interface for user data
 interface UserData {
